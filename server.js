@@ -1,3 +1,9 @@
+/**
+	@author Xavier Collantes
+	@date 09/14/2018
+	@purpose Run local server for JS
+
+*/
 var http = require("http");
 
 http.createServer(function (request, response) {
